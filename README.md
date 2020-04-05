@@ -17,7 +17,7 @@ The mnemonic is:
 * Type the number of the tone you wish to add (e.g. 3)
 * Release <kbd>SHIFT</kbd>
 
-For example, to type `ě`, type <kbd>e</kbd>, <kbd>shift</kbd>+<kbd>\</kbd>,<kbd>3</kbd>
+For example, to type `ě`, type <kbd>e</kbd>, <kbd>shift<kbd>\\</kbd><kbd>3</kbd></kbd>
 
 | Character | Shortcut |
 |---|-------|
