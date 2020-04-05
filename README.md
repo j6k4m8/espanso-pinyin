@@ -13,7 +13,7 @@ The mnemonic is:
 
 * Type the vowel character
 * Press <kbd>SHIFT</kbd>
-* Type the "backslash" <kbd>\</kbd> character
+* Type the "backslash" <kbd>\\</kbd> character
 * Type the number of the tone you wish to add (e.g. 3)
 * Release <kbd>SHIFT</kbd>
 
